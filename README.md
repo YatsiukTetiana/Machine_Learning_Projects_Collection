@@ -8,8 +8,8 @@ This repository contains end-to-end machine learning projects focused on regress
 |--------------|-------------|------|
 | **Linear Regression** | Predicting Revenue Based on Time Spent Online | [📂 Go to notebook](https://colab.research.google.com/drive/1hriUCZZLwE5e1YF-VZr0MLwti7eHrbRc?usp=sharing) |
 | **Linear Regression** | Estimation of the Average Customer Check | [📂 Go to notebook](https://colab.research.google.com/drive/1qAt3suHyIndRq_3czRSMJdJvQhshH4dF?usp=sharing) |
-| 🚦 **Logistic Regression** | Credit Scoring | [📂 Go to notebook](https://colab.research.google.com/drive/1WSBYNmVx1N--yre6HKjL-_1W9usq4-fG?usp=sharing) |
-| 🔍 **Clustering (K-Means, K-Median, DBSCAN)** | Customer Segmentation Project | [📂 Go to folder with notebooks](https://drive.google.com/drive/folders/13QBZlCyRFPnsUOYkfieQK9hOvIDim7tQ?usp=sharing) |
+| **Logistic Regression** | Credit Scoring | [📂 Go to notebook](https://colab.research.google.com/drive/1WSBYNmVx1N--yre6HKjL-_1W9usq4-fG?usp=sharing) |
+| **Clustering (K-Means, K-Median, DBSCAN)** | Customer Segmentation | [📂 Go to folder with notebooks](https://drive.google.com/drive/folders/13QBZlCyRFPnsUOYkfieQK9hOvIDim7tQ?usp=sharing) |
 
 ---
 
