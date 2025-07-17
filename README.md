@@ -1,6 +1,6 @@
 # 📘 Machine Learning Projects Collection
 
-This repository contains end-to-end machine learning projects focused on regression, classification, and unsupervised learning (clustering). All projects are implemented in Python, utilizing libraries such as scikit-learn, pandas, matplotlib, and seaborn.
+This repository contains machine learning projects focused on regression, classification, and unsupervised learning (clustering). All projects are implemented in Python, utilizing libraries such as scikit-learn, pandas, matplotlib, and seaborn.
 
 ## 🧭 Project Navigation
 
